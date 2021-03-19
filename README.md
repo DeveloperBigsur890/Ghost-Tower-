@@ -9,4 +9,4 @@ Ghost Tower is a game developed from java script.
 2.To move left and right you have to use the **right and left** arrow keys ![Ghost Tower](https://ceri.ceredigion.gov.uk/net/wp-content/uploads/2015/04/arrowKeys.png)
 
 
-[click here](https://editor.p5js.org/AsedaDeveloper/present/uazCzBw-1)
+[click here](https://editor.p5js.org/AsedaDeveloper/present/uazCzBw-1) to play
