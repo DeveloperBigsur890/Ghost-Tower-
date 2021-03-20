@@ -5,7 +5,7 @@ Ghost Tower is a game developed from java script.
 
 
 **How to play**
-1.To jump you have to press the space ![Ghost Tower](https://t3.ftcdn.net/jpg/02/10/08/86/360_F_210088647_5qwerjs3wbCsKyOc1KIYig5DEk9oddVY.jpg)
+1.To jump you have to press the space bar ![Ghost Tower](https://t3.ftcdn.net/jpg/02/10/08/86/360_F_210088647_5qwerjs3wbCsKyOc1KIYig5DEk9oddVY.jpg)
 2.To move left and right you have to use the **right and left** arrow keys ![Ghost Tower](https://ceri.ceredigion.gov.uk/net/wp-content/uploads/2015/04/arrowKeys.png)
 
 
